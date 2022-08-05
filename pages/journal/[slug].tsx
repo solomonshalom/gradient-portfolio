@@ -12,9 +12,9 @@ import TransitionPage from "@components/TransitionPage"
 
 const entriesList = {
   "custom-paging-ui-in-swiftui": dynamic(
-    () => import("@data/journal/custom-paging-ui-in-swiftui.mdx")
+  () => import("@data/journal/custom-paging-ui-in-swiftui.mdx")
   ),
-} //
+}
 
 type Entries = typeof entriesList
 type Slug = keyof Entries
