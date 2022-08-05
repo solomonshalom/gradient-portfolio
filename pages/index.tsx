@@ -18,10 +18,10 @@ export default function Home(): JSX.Element {
 
   return (
     <TransitionPage
-      title="Alexandru Ţurcanu - Full Stack Engineer"
+      title="Aditi Vinod - Student And Author"
       description="On a journey to create best in class best in class apps, obsessed with designing fluid interfaces, and perfectionist at heart."
     >
-      <AnimatedDescription title="Alexandru Ţurcanu" description="Full Stack Engineer" />
+      <AnimatedDescription title="Aditi Vinod" description="Student And Author" />
       <Transition
         show={show}
         enter="transition-all duration-500"
@@ -29,9 +29,9 @@ export default function Home(): JSX.Element {
         enterTo="scale-100 opacity-100"
       >
         <p className="text-gray-600 dark:text-gray-400">
-          On a journey to create{" "}
+          On a journey to create the{" "}
           <span className="group relative top-[6px] inline-block cursor-text overflow-hidden">
-            <span className="invisible">best in class apps</span>
+            <span className="invisible">best in me</span>
             <span
               className={classNames(
                 redGradient,
@@ -39,7 +39,7 @@ export default function Home(): JSX.Element {
                 "transition-transform duration-500 ease-in-out hover:duration-300"
               )}
             >
-              best in class apps
+              best inme
             </span>
             <span
               className={classNames(
@@ -48,10 +48,10 @@ export default function Home(): JSX.Element {
                 "transition-transform duration-500 ease-in-out hover:duration-300"
               )}
             >
-              best in class apps
+              best in me
             </span>
           </span>
-          , obsessed with designing{" "}
+          , obsessed with writing{" "}
           <span
             className={classNames(
               "bg-gradient-to-r from-green-500 to-blue-600 bg-clip-text text-transparent dark:from-blue-400 dark:via-cyan-400 dark:to-green-500",
@@ -61,7 +61,7 @@ export default function Home(): JSX.Element {
               "after:transition-transform after:duration-300 after:ease-in-out"
             )}
           >
-            fluid interfaces
+            poems
           </span>
           , and{" "}
           <span className="group relative">
@@ -80,18 +80,18 @@ export default function Home(): JSX.Element {
           at heart.
         </p>
         <p className="mt-4 text-gray-600 dark:text-gray-400">
-          Currently working at{" "}
+          Currently study at{" "}
           <a
             className={classNames(
               "animate-text-shimmer bg-[linear-gradient(110deg,#F6A6A6,45%,#f5f5f5,55%,#F6A6A6)] bg-[length:250%_100%] dark:bg-[linear-gradient(110deg,#F6A6A6,45%,#171717,55%,#F6A6A6)]",
               "inline-block cursor-ne-resize bg-clip-text text-transparent",
               "transition-transform duration-200 ease-in-out hover:scale-105"
             )}
-            href="https://amie.so/"
+            href="https://www.narayanaschools.in/bengaluru/bennargatta/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Amie
+            Narayana
           </a>
         </p>
       </Transition>

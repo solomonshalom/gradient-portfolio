@@ -9,9 +9,9 @@ export default function Footer(): JSX.Element {
         <span className="font-normal">
           <LinkPreview
             name="alexandru.eth"
-            href="https://twitter.com/Pondorasti"
+            href="https://twitter.com/shalomlijo"
             preview="/images/twitter-preview.png"
-            alt="Alexandru Turcanu's Twitter"
+            alt="Solomon Lijo's Twitter"
             style="neutral"
             showExternalIndicator={false}
           />

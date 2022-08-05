@@ -70,12 +70,14 @@ export default function NavigationBar(): JSX.Element {
 
           <div className="flex-grow" />
 
-          <Link href="/experiments">
+        { /* <Link href="/experiments">
             <a className={linkStyle}>
               <span className="sr-only">Experiments</span>
               <BeakerIcon className={iconStyle} />
             </a>
+
           </Link>
+                */ }
           <Link href="/journal">
             <a className={linkStyle}>
               <span className="sr-only">Journal</span>
