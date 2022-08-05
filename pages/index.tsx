@@ -39,7 +39,7 @@ export default function Home(): JSX.Element {
                 "transition-transform duration-500 ease-in-out hover:duration-300"
               )}
             >
-              best inme
+              best in me
             </span>
             <span
               className={classNames(
