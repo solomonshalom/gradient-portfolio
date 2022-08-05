@@ -8,10 +8,9 @@ export default function Footer(): JSX.Element {
         Crafted with care by{" "}
         <span className="font-normal">
           <LinkPreview
-            name="alexandru.eth"
-            href="https://twitter.com/shalomlijo"
-            preview="/images/twitter-preview.png"
-            alt="Solomon Lijo's Twitter"
+            name="Solomon Shalom Lijo"
+            href="solomonlijo.vercel.app"
+            alt="Solomon Lijo's Website"
             style="neutral"
             showExternalIndicator={false}
           />

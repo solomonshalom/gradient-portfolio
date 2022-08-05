@@ -88,7 +88,7 @@ export default function NavigationBar(): JSX.Element {
             className={classNames(linkStyle, "cursor-ne-resize")}
             target="_blank"
             rel="noopener noreferrer"
-            href="https://twitter.com/Pondorasti/"
+            href="https://twitter.com/"
           >
             <span className="sr-only">Twitter account</span>
             <svg className={iconStyle} viewBox="0 0 24 24" fill="currentColor">
@@ -100,7 +100,7 @@ export default function NavigationBar(): JSX.Element {
             className={classNames(linkStyle, "cursor-ne-resize")}
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/pondorasti/"
+            href="https://github.com/"
           >
             <span className="sr-only">GitHub account</span>
             <svg className={iconStyle} viewBox="0 0 24 24" fill="currentColor">
