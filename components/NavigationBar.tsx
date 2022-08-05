@@ -69,6 +69,13 @@ export default function NavigationBar(): JSX.Element {
           </Link>
 
           <div className="flex-grow" />
+
+          <Link href="https://dyincity.wixsite.com/">
+            <a className={linkStyle}>
+              <span className="sr-only">Dyincity</span>
+              <BeakerIcon className={iconStyle} />
+            </a>
+          </Link>
           <Link href="/journal">
             <a className={linkStyle}>
               <span className="sr-only">Journal</span>
