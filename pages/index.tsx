@@ -87,11 +87,11 @@ export default function Home(): JSX.Element {
               "inline-block cursor-ne-resize bg-clip-text text-transparent",
               "transition-transform duration-200 ease-in-out hover:scale-105"
             )}
-            href="https://www.narayanaschools.in/bengaluru/bennargatta/"
+            href="https://srichaitanyaschool.net/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Narayana
+            Sri Chaitanya
           </a>
         </p>
       </Transition>

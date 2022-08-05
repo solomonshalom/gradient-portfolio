@@ -9,7 +9,7 @@ export default function Footer(): JSX.Element {
         <span className="font-normal">
           <LinkPreview
             name="Solomon Shalom Lijo"
-            href="solomonlijo.vercel.app"
+            href="https://solomonlijo.vercel.app"
             alt="Solomon Lijo's Website"
             style="neutral"
             showExternalIndicator={false}
