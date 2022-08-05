@@ -14,7 +14,7 @@ const entriesList = {
   "dns-ad-blocker-with-pi-hole-and-docker": dynamic(
     () => import("@data/journal/dns-ad-blocker-with-pi-hole-and-docker.mdx")
   ),
-}
+} //
 
 type Entries = typeof entriesList
 type Slug = keyof Entries
