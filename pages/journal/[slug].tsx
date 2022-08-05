@@ -11,8 +11,8 @@ import { formatDate, normalizeUtc } from "@lib/date"
 import TransitionPage from "@components/TransitionPage"
 
 const entriesList = {
-  "dns-ad-blocker-with-pi-hole-and-docker": dynamic(
-    () => import("@data/journal/dns-ad-blocker-with-pi-hole-and-docker.mdx")
+  "custom-paging-ui-in-swiftui": dynamic(
+    () => import("@data/journal/custom-paging-ui-in-swiftui.mdx")
   ),
 } //
 
