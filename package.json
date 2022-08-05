@@ -29,15 +29,6 @@
       "import/no-anonymous-default-export": "off"
     }
   },
-  "prettier": {
-    "printWidth": 120,
-    "tabwidth": 2,
-    "useTabs": false,
-    "semi": false,
-    "trailingComma": "es5",
-    "bracketSpacing": true,
-    "arrowParens": "avoid"
-  },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
     "@heroicons/react": "^1.0.5",
