@@ -1,5 +1,5 @@
-# alexandru.so
-A corner on the internet dedicated to Alexandru Turcanu.
+# Aditivinod.vercel.app
+A corner on the internet dedicated to a friend of mine - Aditi. 
 
 ## Tech Stack
 * Framework - [Next.js](https://nextjs.org/)
@@ -8,4 +8,3 @@ A corner on the internet dedicated to Alexandru Turcanu.
 * Database - [Supabase](https://supabase.com/)
 * Deployment - [Vercel](https://vercel.com/)
 * Analytics - [Fathom](https://usefathom.com/)
-
